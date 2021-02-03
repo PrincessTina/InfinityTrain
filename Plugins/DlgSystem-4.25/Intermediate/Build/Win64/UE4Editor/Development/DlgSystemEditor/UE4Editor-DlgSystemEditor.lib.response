@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DlgSystemEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Module.DlgSystemEditor.cpp.obj"
+"C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Module.DlgSystemEditor.gen.cpp.obj"
+"C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Default.rc2.res"
+/OUT:"C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\UE4Editor-DlgSystemEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_DlgSystemEditor

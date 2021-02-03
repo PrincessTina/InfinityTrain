@@ -1,0 +1,70 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DlgSystem.cpp.obj": [
+			"DlgCondition.cpp.obj",
+			"DlgContext.cpp.obj",
+			"DlgDialogue.cpp.obj",
+			"DlgDialogueParticipantData.cpp.obj",
+			"DlgEdge.cpp.obj",
+			"DlgEvent.cpp.obj",
+			"DlgHelper.cpp.obj",
+			"DlgLocalizationHelper.cpp.obj",
+			"DlgManager.cpp.obj",
+			"DlgMemory.cpp.obj",
+			"DlgObject.cpp.obj",
+			"DlgSystemModule.cpp.obj",
+			"DlgSystemSettings.cpp.obj",
+			"DlgTextArgument.cpp.obj",
+			"DlgDataDisplayTreeNode.cpp.obj",
+			"DlgGameplayDebuggerCategory.cpp.obj",
+			"SDlgDataDisplay.cpp.obj",
+			"SDlgDataPropertyValues.cpp.obj",
+			"DlgConfigParser.cpp.obj",
+			"DlgConfigWriter.cpp.obj",
+			"DlgJsonParser.cpp.obj",
+			"DlgJsonWriter.cpp.obj",
+			"DlgLogger.cpp.obj",
+			"INYLogger.cpp.obj",
+			"DlgNode.cpp.obj",
+			"DlgNode_End.cpp.obj",
+			"DlgNode_Selector.cpp.obj",
+			"DlgNode_Speech.cpp.obj",
+			"DlgNode_SpeechSequence.cpp.obj",
+			"DlgIOTester.cpp.obj",
+			"DlgIOTesterTypes.cpp.obj",
+			"DlgTesterHelper.cpp.obj"
+		],
+		"Module.DlgSystem.gen.1_of_3.cpp.obj": [
+			"DlgCondition.gen.cpp.obj",
+			"DlgConditionCustom.gen.cpp.obj",
+			"DlgContext.gen.cpp.obj",
+			"DlgDialogue.gen.cpp.obj"
+		],
+		"Module.DlgSystem.gen.2_of_3.cpp.obj": [
+			"DlgDialogueParticipant.gen.cpp.obj",
+			"DlgDialogueParticipantData.gen.cpp.obj",
+			"DlgEdge.gen.cpp.obj",
+			"DlgEvent.gen.cpp.obj",
+			"DlgEventCustom.gen.cpp.obj",
+			"DlgHelper.gen.cpp.obj",
+			"DlgIOTesterTypes.gen.cpp.obj",
+			"DlgManager.gen.cpp.obj"
+		],
+		"Module.DlgSystem.gen.3_of_3.cpp.obj": [
+			"DlgMemory.gen.cpp.obj",
+			"DlgNode.gen.cpp.obj",
+			"DlgNode_End.gen.cpp.obj",
+			"DlgNode_Selector.gen.cpp.obj",
+			"DlgNode_Speech.gen.cpp.obj",
+			"DlgNode_SpeechSequence.gen.cpp.obj",
+			"DlgNodeData.gen.cpp.obj",
+			"DlgObject.gen.cpp.obj",
+			"DlgSystem.init.gen.cpp.obj",
+			"DlgSystemSettings.gen.cpp.obj",
+			"DlgTextArgument.gen.cpp.obj",
+			"DlgTextArgumentCustom.gen.cpp.obj",
+			"INYLogger.gen.cpp.obj"
+		]
+	}
+}

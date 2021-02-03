@@ -1,0 +1,148 @@
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Development\DlgSystemEditor\Definitions.DlgSystemEditor.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/ConvertSpeechNodesToSpeechSequence_DialogueGraphSchemaAction.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Graph/SchemaActions/ConvertSpeechNodesToSpeechSequence_DialogueGraphSchemaAction.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\ConvertSpeechNodesToSpeechSequence_DialogueGraphSchemaAction.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/ConvertSpeechSequenceNodeToSpeechNodes_DialogueGraphSchemaAction.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Graph/SchemaActions/ConvertSpeechSequenceNodeToSpeechNodes_DialogueGraphSchemaAction.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\ConvertSpeechSequenceNodeToSpeechNodes_DialogueGraphSchemaAction.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueContentBrowserExtensions.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueContentBrowserExtensions.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserFrontEndFilterExtension.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\ContentBrowser\Public\FrontendFilterBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer/CollectionManager/Public/CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser\ContentBrowserFrontEndFilterExtension.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueContentBrowserExtensions.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraph.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Graph/DialogueGraph.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgDialogue.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\IDlgDialogueEditorAccess.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgSystemSettings.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Logging/INYLogger.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\ClassViewer\Public\ClassViewerModule.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgSystemSettings.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgDialogueParticipantData.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgDialogueParticipantData.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgDialogue.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraph.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraphNode.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Nodes/DialogueGraphNode.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Nodes/DlgNode_End.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Nodes/DlgNode.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgEdge.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgCondition.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgConditionCustom.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgObject.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgObject.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgConditionCustom.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgCondition.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgEvent.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgEventCustom.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEventCustom.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEvent.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgTextArgument.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgTextArgumentCustom.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgTextArgumentCustom.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgTextArgument.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgEdge.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\DlgNodeData.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNodeData.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode_End.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Nodes/DlgNode_Speech.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode_Speech.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Nodes/DlgNode_Selector.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode_Selector.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystem\Public\Nodes/DlgNode_SpeechSequence.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystem\DlgNode_SpeechSequence.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\DialogueEditor\Nodes\DialogueGraphNode_Base.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\DialogueEditor/Graph/DialogueGraphSchema.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\DialogueEditorUtilities.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\ConnectionDrawingPolicy.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\SNodePanel.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\MarqueeOperation.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\GraphEditor\Public\GraphEditorSettings.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor\GraphEditorSettings.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\EdGraphNode_Comment.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EdGraphNode_Comment.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\DialogueEditor\Graph\DialogueGraphConnectionDrawingPolicy.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\DialogueEditor\Graph\SchemaActions/NewComment_DialogueGraphSchemaAction.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\NewComment_DialogueGraphSchemaAction.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraphSchema.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraphNode_Base.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraphNode.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraphNode_Base.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraphNode_Edge.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Nodes/DialogueGraphNode_Edge.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraphNode_Edge.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraphNode_Root.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Nodes/DialogueGraphNode_Root.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueGraphNode_Root.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueGraphSchema.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueK2Node_Redirects.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/BlueprintNodes/DialogueK2Node_Redirects.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\BlueprintNodes\DialogueK2Node_Select.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueK2Node_Select.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\BlueprintNodes\DialogueK2Node_SwitchDialogueCallback.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Switch.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Switch.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueK2Node_SwitchDialogueCallback.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor\Private\BlueprintNodes\DialogueK2Node_SwitchDialogueCallbackVariants.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueK2Node_SwitchDialogueCallbackVariants.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DialogueK2Node_Redirects.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueK2Node_Select.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueK2Node_SwitchDialogueCallback.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DialogueK2Node_SwitchDialogueCallbackVariants.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgConditionCustomFactory.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Factories/DlgConditionCustomFactory.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgConditionCustomFactory.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgDialogueFactory.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Factories/DlgDialogueFactory.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgDialogueFactory.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgDialogueThumbnailRenderer.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DlgDialogueThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/DefaultSizedThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\DefaultSizedThumbnailRenderer.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgDialogueThumbnailRenderer.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgEventCustomFactory.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Factories/DlgEventCustomFactory.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgEventCustomFactory.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgExportTwineCommandlet.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Commandlets/DlgExportTwineCommandlet.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgExportTwineCommandlet.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgHumanReadableTextCommandlet.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Commandlets/DlgHumanReadableTextCommandlet.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgHumanReadableTextCommandlet.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgNodeDataFactory.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Factories/DlgNodeDataFactory.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgNodeDataFactory.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgStatsCommandlet.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Commandlets/DlgStatsCommandlet.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgStatsCommandlet.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgSystemEditor.init.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/DlgTextArgumentCustomFactory.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/Factories/DlgTextArgumentCustomFactory.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\DlgTextArgumentCustomFactory.generated.h
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/NewComment_DialogueGraphSchemaAction.gen.cpp
+C:/Users/ethan/Documents/Unreal Projects/DialogueTutorial2/Plugins/DlgSystem-4.25/Intermediate/Build/Win64/UE4Editor/Inc/DlgSystemEditor/NewNode_DialogueGraphSchemaAction.gen.cpp
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Source\DlgSystemEditor/Private/DialogueEditor/Graph/SchemaActions/NewNode_DialogueGraphSchemaAction.h
+C:\Users\ethan\Documents\Unreal Projects\DialogueTutorial2\Plugins\DlgSystem-4.25\Intermediate\Build\Win64\UE4Editor\Inc\DlgSystemEditor\NewNode_DialogueGraphSchemaAction.generated.h

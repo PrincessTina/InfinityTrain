@@ -1,0 +1,384 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DLGSYSTEM_DlgIOTesterTypes_generated_h
+#error "DlgIOTesterTypes.generated.h already included, missing '#pragma once' in DlgIOTesterTypes.h"
+#endif
+#define DLGSYSTEM_DlgIOTesterTypes_generated_h
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_595_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestMapComplex_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestMapComplex>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_523_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestMapPrimitive_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestMapPrimitive>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_498_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestSetComplex_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestSetComplex>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_456_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestSetPrimitive_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestSetPrimitive>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_419_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestArrayComplex_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestArrayComplex>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_367_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestArrayPrimitive_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestArrayPrimitive>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_329_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestStructComplex_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestStructComplex>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_177_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgTestStructPrimitives_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgTestStructPrimitives>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_16_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FDlgIOTesterOptions_Statics; \
+	DLGSYSTEM_API static class UScriptStruct* StaticStruct();
+
+
+template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgIOTesterOptions>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_SPARSE_DATA
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_RPC_WRAPPERS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_RPC_WRAPPERS_NO_PURE_DECLS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitivesBase(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitivesBase_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitivesBase, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitivesBase)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_INCLASS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitivesBase(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitivesBase_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitivesBase, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitivesBase)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UDlgTestObjectPrimitivesBase(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDlgTestObjectPrimitivesBase) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitivesBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitivesBase); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitivesBase(UDlgTestObjectPrimitivesBase&&); \
+	NO_API UDlgTestObjectPrimitivesBase(const UDlgTestObjectPrimitivesBase&); \
+public:
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitivesBase(UDlgTestObjectPrimitivesBase&&); \
+	NO_API UDlgTestObjectPrimitivesBase(const UDlgTestObjectPrimitivesBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitivesBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitivesBase); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDlgTestObjectPrimitivesBase)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_PRIVATE_PROPERTY_OFFSET
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_68_PROLOG
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_RPC_WRAPPERS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_INCLASS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_RPC_WRAPPERS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_INCLASS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_71_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEM_API UClass* StaticClass<class UDlgTestObjectPrimitivesBase>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_SPARSE_DATA
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_RPC_WRAPPERS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_RPC_WRAPPERS_NO_PURE_DECLS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_ChildA(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_ChildA_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_ChildA, UDlgTestObjectPrimitivesBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_INCLASS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_ChildA(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_ChildA_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_ChildA, UDlgTestObjectPrimitivesBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UDlgTestObjectPrimitives_ChildA(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_ChildA) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_ChildA); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_ChildA); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_ChildA(UDlgTestObjectPrimitives_ChildA&&); \
+	NO_API UDlgTestObjectPrimitives_ChildA(const UDlgTestObjectPrimitives_ChildA&); \
+public:
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_ChildA(UDlgTestObjectPrimitives_ChildA&&); \
+	NO_API UDlgTestObjectPrimitives_ChildA(const UDlgTestObjectPrimitives_ChildA&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_ChildA); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_ChildA); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_PRIVATE_PROPERTY_OFFSET
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_100_PROLOG
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_RPC_WRAPPERS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_INCLASS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_RPC_WRAPPERS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_INCLASS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_103_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEM_API UClass* StaticClass<class UDlgTestObjectPrimitives_ChildA>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_SPARSE_DATA
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_RPC_WRAPPERS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_RPC_WRAPPERS_NO_PURE_DECLS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_ChildB(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_ChildB_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_ChildB, UDlgTestObjectPrimitivesBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_ChildB)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_INCLASS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_ChildB(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_ChildB_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_ChildB, UDlgTestObjectPrimitivesBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_ChildB)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UDlgTestObjectPrimitives_ChildB(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_ChildB) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_ChildB); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_ChildB); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_ChildB(UDlgTestObjectPrimitives_ChildB&&); \
+	NO_API UDlgTestObjectPrimitives_ChildB(const UDlgTestObjectPrimitives_ChildB&); \
+public:
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_ChildB(UDlgTestObjectPrimitives_ChildB&&); \
+	NO_API UDlgTestObjectPrimitives_ChildB(const UDlgTestObjectPrimitives_ChildB&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_ChildB); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_ChildB); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_ChildB)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_PRIVATE_PROPERTY_OFFSET
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_124_PROLOG
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_RPC_WRAPPERS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_INCLASS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_RPC_WRAPPERS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_INCLASS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_127_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEM_API UClass* StaticClass<class UDlgTestObjectPrimitives_ChildB>();
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_SPARSE_DATA
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_RPC_WRAPPERS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_RPC_WRAPPERS_NO_PURE_DECLS
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_GrandChildA_Of_ChildA(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_GrandChildA_Of_ChildA_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA, UDlgTestObjectPrimitives_ChildA, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_INCLASS \
+private: \
+	static void StaticRegisterNativesUDlgTestObjectPrimitives_GrandChildA_Of_ChildA(); \
+	friend struct Z_Construct_UClass_UDlgTestObjectPrimitives_GrandChildA_Of_ChildA_Statics; \
+public: \
+	DECLARE_CLASS(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA, UDlgTestObjectPrimitives_ChildA, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DlgSystem"), NO_API) \
+	DECLARE_SERIALIZER(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UDlgTestObjectPrimitives_GrandChildA_Of_ChildA(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_GrandChildA_Of_ChildA); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_GrandChildA_Of_ChildA(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA&&); \
+	NO_API UDlgTestObjectPrimitives_GrandChildA_Of_ChildA(const UDlgTestObjectPrimitives_GrandChildA_Of_ChildA&); \
+public:
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UDlgTestObjectPrimitives_GrandChildA_Of_ChildA(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA&&); \
+	NO_API UDlgTestObjectPrimitives_GrandChildA_Of_ChildA(const UDlgTestObjectPrimitives_GrandChildA_Of_ChildA&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UDlgTestObjectPrimitives_GrandChildA_Of_ChildA); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDlgTestObjectPrimitives_GrandChildA_Of_ChildA)
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_PRIVATE_PROPERTY_OFFSET
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_148_PROLOG
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_RPC_WRAPPERS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_INCLASS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_PRIVATE_PROPERTY_OFFSET \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_SPARSE_DATA \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_RPC_WRAPPERS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_INCLASS_NO_PURE_DECLS \
+	DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h_151_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DLGSYSTEM_API UClass* StaticClass<class UDlgTestObjectPrimitives_GrandChildA_Of_ChildA>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID DialogueTutorial2_Plugins_DlgSystem_4_25_Source_DlgSystem_Public_Tests_DlgIOTesterTypes_h
+
+
+#define FOREACH_ENUM_EDLGTESTENUM(op) \
+	op(EDlgTestEnum::First) \
+	op(EDlgTestEnum::Second) \
+	op(EDlgTestEnum::Third) \
+	op(EDlgTestEnum::NumOf) 
+
+enum class EDlgTestEnum : uint8;
+template<> DLGSYSTEM_API UEnum* StaticEnum<EDlgTestEnum>();
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
